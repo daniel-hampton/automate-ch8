@@ -2,6 +2,7 @@
 *.ipynb
 .idea/
 randomQuizGenerator/*.txt
+!/Chapter8_ShellWork.ipynb
 .spyproject/
 
 # Byte-compiled / optimized / DLL files
@@ -95,4 +96,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
-!/Chapter8_ShellWork.ipynb
+
