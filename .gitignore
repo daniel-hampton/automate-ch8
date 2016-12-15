@@ -1,6 +1,7 @@
 # Dan's added ignored typs
 *.ipynb
 .idea/
+randomQuizGenerator/*.txt
 .spyproject/
 
 # Byte-compiled / optimized / DLL files
