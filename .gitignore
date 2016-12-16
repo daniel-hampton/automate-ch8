@@ -97,3 +97,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# myDatabase and other generated files to ignore.
+/Project_mcb/mcb.dat
+/Project_mcb/mcb.bak
+/Project_mcb/mcb.dir
